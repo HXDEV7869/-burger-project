@@ -1,5 +1,9 @@
 body {
+<<<<<<< HEAD
     background-color: rgb(255, 255, 255);
+=======
+    background-color: #fbc531 ;
+>>>>>>> backgroundColor
 }
 h1 {
     display: flex;
